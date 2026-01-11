@@ -25,5 +25,7 @@ public class proyecto_final {
         // Salida de datos
         System.out.println("Total compras     : " + tc);
         System.out.println("Promedio compras  : " + pc);
+        // comentario
+        System.out.println("Actualizacion de proyecto");
     } // Fin del método
 } // Fin del programa
